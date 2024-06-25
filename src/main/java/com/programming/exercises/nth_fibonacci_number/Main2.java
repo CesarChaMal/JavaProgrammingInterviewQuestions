@@ -1,3 +1,5 @@
+package com.programming.exercises.nth_fibonacci_number;
+
 import java.util.*;
 
 class Main2 {
